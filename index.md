@@ -2,7 +2,10 @@
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
 Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n  
-[_News_](#news)
+[_News_](#news)&nbsp;&nbsp;&nbsp; 
+[_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en)&nbsp;&nbsp;&nbsp; 
+[_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)&nbsp;&nbsp;&nbsp; 
+[_LinkedIn_](https://www.linkedin.com/in/bingchuan-tian-b55234163/)
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
