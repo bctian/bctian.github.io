@@ -1,7 +1,7 @@
 Ph.D. student  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: **b**c**t**i**a**n@**s**m**a**i**l**.**n**j**u**.**e**d**u**.**c**n
+Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n
 
 [News](#news)
 
