@@ -12,11 +12,21 @@
   1. Scheduling in datacenters
   2. Distributed systems
 
-## Publications
-### Confrences
+## Publications (Confrences)
   1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
     Bingchuan Tian, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
     "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
     In Proceedings of the 2nd Asia-Pacific Workshop on Networking (APNet), Beijing, China, August 2-3, 2018. 
     \[[Paper](https://doi.org/10.1145/3232565.3234504)\]
-  2. \[\]
+  1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
+    Nan Yu, Haipeng Dai, Alex X. Liu and Bingchuan Tian. 
+    "Placement of Connected Wireless Chargers." 
+    In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+    \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]
+  1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
+    Bingchuan Tian, Chen Tian, Haipeng Dai and Bingquan Wang. 
+    "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
+    In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
+
+## 
