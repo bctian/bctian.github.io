@@ -12,7 +12,7 @@
   1. Scheduling in datacenters
   2. Distributed systems
 
-## Publications (Confrence)
+## Publications (Conference)
   1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
     **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
     "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
