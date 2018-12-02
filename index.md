@@ -18,39 +18,39 @@ Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-  1. Scheduling in datacenters
-  1. Distributed systems
+1. Scheduling in datacenters
+1. Distributed systems
 
 ## Publications (Conference)
-  1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
-    **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
-    "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
-    In Proceedings of the 2nd Asia-Pacific Workshop on Networking (APNet), Beijing, China, August 2-3, 2018. 
-    \[[Paper](https://doi.org/10.1145/3232565.3234504)\]
-  1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
-    Nan Yu, Haipeng Dai, Alex X. Liu and **Bingchuan Tian**. 
-    "Placement of Connected Wireless Chargers." 
-    In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
-    \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]
-  1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
-    **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
-    "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
-    In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
-  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
+1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
+  **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
+  "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
+  In Proceedings of the 2nd Asia-Pacific Workshop on Networking (APNet), Beijing, China, August 2-3, 2018. 
+  \[[Paper](https://doi.org/10.1145/3232565.3234504)\]
+1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
+  Nan Yu, Haipeng Dai, Alex X. Liu and **Bingchuan Tian**. 
+  "Placement of Connected Wireless Chargers." 
+  In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]
+1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
+  **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
+  "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
+  In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+\[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
 
 ## Teaching Experience
-  1. Teaching Assistant, Computer Networks (Spring 2018, Nanjing University). Instructor: Chen Tian.
-  1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
-  1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
+1. Teaching Assistant, Computer Networks (Spring 2018, Nanjing University). Instructor: Chen Tian.
+1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
+1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## News
-  * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
-  * \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
-  * \[2018.06\] I am a Research Intern in Networking Research Team, Alibaba Group.
-  * \[2018.02\] I will attend INFOCOM’18 (April 15-19, 2018, Honolulu, HI, USA) as a presenter.
-  * \[2017.11\] Our paper "Placement of Connected Wireless Chargers" is accepted by INFOCOM’18.
-  * \[2017.11\] Our paper "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time" is accepted by INFOCOM’18.
-  * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
+* \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
+* \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
+* \[2018.06\] I am a Research Intern in Networking Research Team, Alibaba Group.
+* \[2018.02\] I will attend INFOCOM’18 (April 15-19, 2018, Honolulu, HI, USA) as a presenter.
+* \[2017.11\] Our paper "Placement of Connected Wireless Chargers" is accepted by INFOCOM’18.
+* \[2017.11\] Our paper "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time" is accepted by INFOCOM’18.
+* \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
 ## Last Updated
-  December 3, 2018.
+December 3, 2018.
