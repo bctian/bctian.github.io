@@ -1,9 +1,8 @@
-Ph.D. student  
+**Ph.D. Student**  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n
-
-[News](#news)
+Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n  
+[_News_](#news)
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
@@ -17,7 +16,7 @@ Email: **b**c**t**i**a**n#**s**m**a**i**l**\***n**j**u**\***e**d**u**\***c**n
 
 ## Research Interests
   1. Scheduling in datacenters
-  2. Distributed systems
+  1. Distributed systems
 
 ## Publications (Conference)
   1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
