@@ -51,6 +51,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## News
+* \[2018.12\] Our paper "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee" is accepted by ISPA'18.
 * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
 * \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
 * \[2018.06\] I am a Research Intern in Networking Research Team, Alibaba Group.
@@ -60,4 +61,4 @@ Email: _bctian_#smail\*nju\*edu\*cn
 * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
 ## Last Updated
-December 3, 2018.
+December 5, 2018.
