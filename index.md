@@ -31,7 +31,8 @@ Email: _bctian_#smail\*nju\*edu\*cn
   Nan Yu, Haipeng Dai, Alex X. Liu and **Bingchuan Tian**. 
   "Placement of Connected Wireless Chargers." 
   In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
-  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]
+  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]  
+  _Note: I'm in charge of improving execution time of simulator in this work._
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
