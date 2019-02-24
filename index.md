@@ -38,7 +38,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
   "Placement of Connected Wireless Chargers." 
   In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
   \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]  
-  _Note: I helped to reduce execution time of simulator._
+  _Note: I helped to reduce execution time of simulator. Please contact [Nan Yu](mailto:nanyu@smail.nju.cn) if you have any questions._
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
