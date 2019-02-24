@@ -27,7 +27,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
   "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee." 
   In Proceedings of 16th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Melbourne, Australia, December 11-13, 2018. 
   \[Paper\]  
-  _Note: I helped with preliminary investigation. Please contact [Zifan Liu](zifanliu@smail.nju.cn) if you have any questions._
+  _Note: I helped with preliminary investigation. Please contact [Zifan Liu](mailto:zifanliu@smail.nju.cn) if you have any questions._
 1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
   **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
   "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
