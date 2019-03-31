@@ -26,7 +26,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
   Zifan Liu, Haipeng Dai, **Bingchuan Tian**, Wajid Rafique, and Wanchun Dou. 
   "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee." 
   In Proceedings of 16th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Melbourne, Australia, December 11-13, 2018. 
-  \[Paper\]  
+  [\[Paper](https://doi.org/10.1109/BDCloud.2018.00053)\]  
   _Note: I helped with preliminary investigation. Please contact [Zifan Liu](mailto:zifanliu@smail.nju.cn) if you have any questions._
 1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
   **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
@@ -61,4 +61,4 @@ Email: _bctian_#smail\*nju\*edu\*cn
 * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
 ## Last Updated
-December 5, 2018.
+March 31, 2019.
