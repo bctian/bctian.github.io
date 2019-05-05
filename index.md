@@ -36,7 +36,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## News
-* \[2019.05\] Our paper "Safely and Automatically Updating In-Network ACL Configurations with Intent Language" is accepted by SIGCOMM'19. (1st SIGCOMM from NJU)
+* \[2019.05\] Our paper "Safely and Automatically Updating In-Network ACL Configurations with Intent Language" is accepted by SIGCOMM'19. (1st SIGCOMM from NJU & Alibaba Group)
 * \[2018.12\] Our paper "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee" is accepted by ISPA'18.
 * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
 * \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
