@@ -10,7 +10,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
   * [Alibaba Group](https://www.alibabagroup.com/en/global/home), China  
-  * Advisor: [Hongqiang Harry Liu](http://www.hongqiangliu.com/) & [Ennan Zhai](https://ennanzhai.github.io/)
+  * Advisor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
 1. **Ph.D. Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: Prof. [Chen Tian](https://cs.nju.edu.cn/tianchen/)
@@ -19,26 +19,11 @@ Email: _bctian_#smail\*nju\*edu\*cn
 
 ## Research Interests
 1. Scheduling in datacenters
-1. Distributed systems
+1. Safety guarantee for network updates
 
 ## Publications (Conference)
-1. \[[ISPA'18](http://www.swinflow.org/confs/2018/ispa/index.htm)\] 
-  Zifan Liu, Haipeng Dai, **Bingchuan Tian**, Wajid Rafique, and Wanchun Dou. 
-  "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee." 
-  In Proceedings of 16th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Melbourne, Australia, December 11-13, 2018. 
-  [\[Paper](https://doi.org/10.1109/BDCloud.2018.00053)\]  
-  _Note: I helped with preliminary investigation. Please contact [Zifan Liu](mailto:zifanliu@smail.nju.cn) if you have any questions._
-1. \[[APNet'18](https://conferences.sigcomm.org/events/apnet2018/index.html)\] 
-  **Bingchuan Tian**, Chen Tian, Jiajun Sun, Junhua Yan, Yizhou Tang, Wei Wang, Haipeng Dai, Nai Xia, Guihai Chen, and Wanchun Dou. 
-  "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop." 
-  In Proceedings of the 2nd Asia-Pacific Workshop on Networking (APNet), Beijing, China, August 2-3, 2018. 
-  \[[Paper](https://doi.org/10.1145/3232565.3234504)\]
-1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
-  Nan Yu, Haipeng Dai, Alex X. Liu and **Bingchuan Tian**. 
-  "Placement of Connected Wireless Chargers." 
-  In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
-  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8485934)\]  
-  _Note: I helped to reduce execution time of simulator. Please contact [Nan Yu](mailto:nanyu@smail.nju.cn) if you have any questions._
+1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
+  "Safely and Automatically Updating In-Network ACL Configurations with Intent Language."
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
@@ -51,6 +36,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## News
+* \[2019.05\] Our paper "Safely and Automatically Updating In-Network ACL Configurations with Intent Language" is accepted by SIGCOMM'19. (1st SIGCOMM from NJU)
 * \[2018.12\] Our paper "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee" is accepted by ISPA'18.
 * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
 * \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
@@ -61,4 +47,4 @@ Email: _bctian_#smail\*nju\*edu\*cn
 * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
 ## Last Updated
-March 31, 2019.
+May 6, 2019.
