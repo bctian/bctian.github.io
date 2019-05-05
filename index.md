@@ -23,7 +23,9 @@ Email: _bctian_#smail\*nju\*edu\*cn
 
 ## Publications (Conference)
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
+  **Bingchuan Tian** *et al*. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language."
+  \(to appear\)
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
@@ -37,12 +39,9 @@ Email: _bctian_#smail\*nju\*edu\*cn
 
 ## News
 * \[2019.05\] Our paper "Safely and Automatically Updating In-Network ACL Configurations with Intent Language" is accepted by SIGCOMM'19. (1st SIGCOMM from NJU & Alibaba Group)
-* \[2018.12\] Our paper "Efficient Coflow Scheduling of Multi-stage Jobs with Isolation Guarantee" is accepted by ISPA'18.
 * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter.
-* \[2018.06\] Our paper "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop" is accepted by APNet’18.
 * \[2018.06\] I am a Research Intern in Networking Research Team, Alibaba Group.
 * \[2018.02\] I will attend INFOCOM’18 (April 15-19, 2018, Honolulu, HI, USA) as a presenter.
-* \[2017.11\] Our paper "Placement of Connected Wireless Chargers" is accepted by INFOCOM’18.
 * \[2017.11\] Our paper "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time" is accepted by INFOCOM’18.
 * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
