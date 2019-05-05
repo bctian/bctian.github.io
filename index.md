@@ -21,7 +21,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Scheduling in datacenters
 1. Safety guarantee for network updates
 
-## Publications (Conference)
+## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
   **Bingchuan Tian** *et al*. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language."
