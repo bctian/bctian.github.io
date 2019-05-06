@@ -50,6 +50,6 @@ May 6, 2019.
 
 <center>
   <a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'>
-    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4' width='50%'/>
   </a>
 </center>
