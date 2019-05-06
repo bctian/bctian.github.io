@@ -48,4 +48,8 @@ Email: _bctian_#smail\*nju\*edu\*cn
 ## Last Updated
 May 6, 2019.
 
-<center><a href="https://clustrmaps.com/site/1aq0p"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4&cl=ffffff" /></a></center>
+<center>
+  <a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
+  </a>
+</center>
