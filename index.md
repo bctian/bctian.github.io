@@ -56,6 +56,6 @@ May 7, 2019.
 <br/>
 <center>
   <a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'>
-    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=680&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
   </a>
 </center>
