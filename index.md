@@ -28,7 +28,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
   In Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM), Beijing, China, August 19-24, 2019. 
   \(to appear\)
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
-  **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
+  **Bingchuan Tian**, Chen Tian, Haipeng Dai, Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
   In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
 \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
