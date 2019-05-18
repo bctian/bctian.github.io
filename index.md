@@ -23,13 +23,14 @@ Email: _bctian_#smail\*nju\*edu\*cn
 
 ## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
-  **Bingchuan Tian** *et al*. 
-  "Safely and Automatically Updating In-Network ACL Configurations with Intent Language."
+  **Bingchuan Tian** Bingchuan Tian, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Ben Zhao, Heather Zheng. 
+  "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
+  In Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM), Beijing, China, August 19-24, 2019. 
   \(to appear\)
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai and Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
-  In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+  In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
 \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
 
 ## Services
@@ -51,11 +52,11 @@ Email: _bctian_#smail\*nju\*edu\*cn
 * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China).
 
 ## Last Updated
-May 7, 2019.
+May 18, 2019.
 
 <br/>
 <center>
-  <a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'>
+  <!--a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'-->
     <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
-  </a>
+  <!--/a-->
 </center>
