@@ -1,4 +1,4 @@
-**Ph.D. Student**  
+**PhD Student**  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
 Email: _bctian_#smail\*nju\*edu\*cn  
@@ -8,28 +8,28 @@ Email: _bctian_#smail\*nju\*edu\*cn
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
-  * [Alibaba Group](https://www.alibabagroup.com/en/global/home), China  
+  * [Alibaba Group](https://www.alibabagroup.com/en/global/home)  
   * Advisor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
-1. **Ph.D. Student** in Computer Science and Technology (September, 2016 - Now)  
+1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: Prof. [Chen Tian](https://cs.nju.edu.cn/tianchen/)
-1. **B.S.** in Computer Science and Technology (September, 2012 - June, 2016)  
+1. **BS** in Computer Science and Technology (September, 2012 - June, 2016)  
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-1. Scheduling in datacenters
 1. Safety guarantee for network updates
+1. Network scheduling in datacenters
 
 ## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
   **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Ben Zhao, Heather Zheng. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
-  In Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM), Beijing, China, August 19-24, 2019. 
+  Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'19), Beijing, China, August 19-24, 2019. 
   \(to appear\)
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai, Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
-  In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. 
+  Proceedings of IEEE International Conference on Computer Communications (INFOCOM'18), Honolulu, HI, USA, April 15-19, 2018. 
 \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
 
 ## Services
@@ -42,7 +42,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## Last Updated
-May 18, 2019.
+May 19, 2019.
 
 <br/>
 <center>
