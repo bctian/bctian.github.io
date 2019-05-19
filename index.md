@@ -2,7 +2,6 @@
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
 Email: _bctian_#smail\*nju\*edu\*cn  
-[_News_](#news)&nbsp;&nbsp;&nbsp; 
 [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en)&nbsp;&nbsp;&nbsp; 
 [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)&nbsp;&nbsp;&nbsp; 
 [_LinkedIn_](https://www.linkedin.com/in/bingchuan-tian-b55234163/)
@@ -42,21 +41,12 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
-## News
-* \[2019.05\] I will serve as a shadow PC of IMC'19.
-* \[2019.05\] Our paper "Safely and Automatically Updating In-Network ACL Configurations with Intent Language" is accepted by SIGCOMM'19. (1st SIGCOMM from NJU & Alibaba Group)
-<!-- * \[2018.07\] I will attend APNet'18 (August 2-3, 2018, Beijing, China) as a presenter. -->
-* \[2018.06\] I am a Research Intern in Networking Research Team, Alibaba Group.
-<!-- * \[2018.02\] I will attend INFOCOM’18 (April 15-19, 2018, Honolulu, HI, USA) as a presenter. -->
-* \[2017.11\] Our paper "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time" is accepted by INFOCOM’18.
-<!-- * \[2017.09\] I will attend SOSP’17 (October 28-31, 2017, Shanghai, China). -->
-
 ## Last Updated
 May 18, 2019.
 
 <br/>
 <center>
-  <!--a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker'-->
+  <!-- a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker' -->
     <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
-  <!--/a-->
+  <!-- /a -->
 </center>
