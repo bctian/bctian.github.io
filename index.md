@@ -1,7 +1,7 @@
 **PhD Student**  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: _bctian_#smail\*nju\*edu\*cn  
+Email: _bctian_#smail.nju.edu.cn  
 [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en)&nbsp;&nbsp;&nbsp; 
 [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)&nbsp;&nbsp;&nbsp; 
 [_LinkedIn_](https://www.linkedin.com/in/bingchuan-tian-b55234163/)
@@ -13,7 +13,7 @@ Email: _bctian_#smail\*nju\*edu\*cn
 1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: Prof. [Chen Tian](https://cs.nju.edu.cn/tianchen/)
-1. **BS** in Computer Science and Technology (September, 2012 - June, 2016)  
+1. **BE** in Computer Science and Technology (September, 2012 - June, 2016)  
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
