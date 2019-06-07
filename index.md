@@ -22,7 +22,7 @@ Email: _bctian_#smail.nju.edu.cn
 
 ## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
-  **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Ben Zhao, Heather Zheng. 
+  **Bingchuan Tian**\*, Xinyi Zhang\*, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Ben Zhao, Heather Zheng. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
   Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'19), Beijing, China, August 19-24, 2019. 
   \(to appear\)
