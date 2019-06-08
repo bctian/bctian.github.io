@@ -17,7 +17,7 @@ Email: _bctian_#smail.nju.edu.cn
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-1. Safety guarantee for network updates
+1. Reliability guarantee for network updates
 1. Network scheduling in datacenters
 
 ## Selected Publications
