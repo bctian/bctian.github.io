@@ -17,12 +17,12 @@ Email: _bctian_#smail.nju.edu.cn
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-1. Reliability guarantee for network updates
+1. Reliability of network updates
 1. Network scheduling in datacenters
 
 ## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
-  **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Haitao Zheng, Ben Zhao. 
+  **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Haitao Zheng, Ben Y. Zhao. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
   Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'19), Beijing, China, August 19-24, 2019. 
   \(to appear\)
