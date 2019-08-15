@@ -12,7 +12,7 @@ Email: _bctian_#smail.nju.edu.cn
   * Advisor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
 1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
-  * Advisor: Prof. [Chen Tian](https://cs.nju.edu.cn/tianchen/)
+  * Advisor: [Chen Tian](https://cs.nju.edu.cn/tianchen/)
 1. **BE** in Computer Science and Technology (September, 2012 - June, 2016)  
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
