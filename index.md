@@ -25,12 +25,12 @@ Email: _bctian_#smail.nju.edu.cn
   **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Haitao Zheng, Ben Y. Zhao. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
   Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'19), Beijing, China, August 19-24, 2019. 
-  \(to appear\)
+  \[[Paper](https://doi.org/10.1145/3341302.3342088)\]
 1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
   **Bingchuan Tian**, Chen Tian, Haipeng Dai, Bingquan Wang. 
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
   Proceedings of IEEE International Conference on Computer Communications (INFOCOM'18), Honolulu, HI, USA, April 15-19, 2018. 
-\[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
+  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
 
 ## Services
 1. Shadow PC
@@ -44,7 +44,7 @@ Email: _bctian_#smail.nju.edu.cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## Last Updated
-July 3, 2019.
+August 16, 2019.
 
 <br/>
 <center>
