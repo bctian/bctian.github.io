@@ -3,8 +3,7 @@ Department of Computer Science and Technology, Nanjing University
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
 Email: _bctian_#smail.nju.edu.cn  
 [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en)&nbsp;&nbsp;&nbsp; 
-[_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)&nbsp;&nbsp;&nbsp; 
-[_LinkedIn_](https://www.linkedin.com/in/bingchuan-tian-b55234163/)
+[_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
@@ -17,8 +16,9 @@ Email: _bctian_#smail.nju.edu.cn
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-1. Intent-based networking: reliability guarantee on WAN updates
-1. Network scheduling in datacenters
+1. Intent-based networking
+1. Datacenter transport and congestion control 
+1. Network scheduling
 
 ## Selected Publications
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
@@ -43,6 +43,8 @@ Email: _bctian_#smail.nju.edu.cn
   * IEEE Communications Letters
 
 ## Teaching Experience
+1. Teaching Assistant, Computer Networks (Spring 2019, Nanjing University). Instructor: Chen Tian.
+1. Teaching Assistant, Computer Networks (Fall 2018, Nanjing University). Instructor: Jiaqi Zheng.
 1. Teaching Assistant, Computer Networks (Spring 2018, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
