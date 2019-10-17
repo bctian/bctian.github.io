@@ -43,8 +43,8 @@ Email: _bctian_#smail.nju.edu.cn
   * IEEE Communications Letters
 
 ## Teaching Experience
-1. Teaching Assistant, Computer Networks (Spring 2019, Nanjing University). Instructor: Chen Tian.
-1. Teaching Assistant, Computer Networks (Fall 2018, Nanjing University). Instructor: Jiaqi Zheng.
+1. Teaching Assistant (Remote), Computer Networks (Spring 2019, Nanjing University). Instructor: Chen Tian.
+1. Teaching Assistant (Remote), Computer Networks (Fall 2018, Nanjing University). Instructor: Jiaqi Zheng.
 1. Teaching Assistant, Computer Networks (Spring 2018, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
