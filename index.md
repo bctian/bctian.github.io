@@ -49,7 +49,7 @@ Email: _bctian_#smail.nju.edu.cn
 1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
-## Awards
+## Selected Awards
 1. National Scholarship (for PhD students), 2019.
 1. Principal's Special Scholarship (for 1st-year PhD students), 2016.
 1. National Scholarship (for undergraduate students), 2013.
