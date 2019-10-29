@@ -50,12 +50,13 @@ Email: _bctian_#smail.nju.edu.cn
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## Selected Awards
+1. Nomination Award of MSRA Fellowship (top 25 among Asia-Pacific PhD students in computer science), 2019.
 1. National Scholarship (for PhD students), 2019.
 1. Principal's Special Scholarship (for 1st-year PhD students), 2016.
 1. National Scholarship (for undergraduate students), 2013.
 
 ## Last Updated
-October 22, 2019.
+October 29, 2019.
 
 <br/>
 <center>
