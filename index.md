@@ -2,8 +2,6 @@
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
 Email: _bctian_#smail.nju.edu.cn  
-[_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en)&nbsp;&nbsp;&nbsp; 
-[_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan)
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
@@ -35,6 +33,8 @@ Email: _bctian_#smail.nju.edu.cn
   "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
   Proceedings of IEEE International Conference on Computer Communications (INFOCOM'18), Honolulu, HI, USA, April 15-19, 2018. 
   \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
+
+See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
 ## Services
 1. Shadow PC
