@@ -38,6 +38,7 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 
 ## Services
 1. Shadow PC
+  * EuroSys [2020](https://www.eurosys2020.org/call-for-shadow-pc-participation/)
   * IMC [2019](https://conferences.sigcomm.org/imc/2019/shadow/)
 2. Reviewer
   * IEEE Communications Letters
