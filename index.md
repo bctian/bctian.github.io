@@ -57,7 +57,7 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 1. National Scholarship (for undergraduate students), 2013.
 
 ## Last Updated
-October 29, 2019.
+November 21, 2019.
 
 <br/>
 <center>
