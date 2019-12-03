@@ -1,7 +1,10 @@
 **PhD Student**  
 Department of Computer Science and Technology, Nanjing University  
-Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: _bctian_#smail.nju.edu.cn  
+Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023 
+Email: ~~_bctian_#smail.nju.edu.cn~~  _bingchuantian_@gmail.com
+
+**I will stop using my old email, built by [Tencent ExMail](https://exmail.qq.com/), whose availability cannot meet my requirement. Just now, I was suddenly ENFORCED to bind my ExMail account with WeChat Account so that I can only login by scanning QR code, otherwise I CANNOT send out any emails. I'm not satisfied, but, OK, I did. Then I found the QR code cannot be loaded correctly (see the figure below), so I cannot even login. I cannot get any useful technical support from Tencent ExMail, and I cannot fand any way to report urgent accidents like this. What I can only get is just a useless response from a robot, and hope that it could recover soon.  --0:05am, Dec 4, 2019.**
+
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
