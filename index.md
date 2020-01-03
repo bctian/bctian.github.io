@@ -52,7 +52,8 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## Selected Awards
-1. Nomination Award of MSRA Fellowship (top 25 among Asia PhD students in computer science), 2019.
+1. Person of the Year in Nanjing University, 2019. 
+1. Nomination Award of MSRA Fellowship, 2019. <font color="red"> (top 25 among Asia PhD students in computer science) </font>
 1. National Scholarship (for PhD students), 2019.
 1. Principal's Special Scholarship (for 1st-year PhD students), 2016.
 1. National Scholarship (for undergraduate students), 2013.
