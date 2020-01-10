@@ -1,7 +1,7 @@
 PhD Student  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: _bingchuantian_@gmail.com(suggested)  _bctian_#smail.nju.edu.cn(optional)  
+Email: _bingchuantian_#gmail.com(suggested)  _bctian_#smail.nju.edu.cn(optional)  
 
 
 ## Biography
