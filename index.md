@@ -29,11 +29,6 @@ Email: _bingchuantian_@gmail.com(suggested)  _bctian_#smail.nju.edu.cn(optional)
   \[[Video](https://dl.acm.org/ft_gateway.cfm?id=3342088&ftid=2080733&dwn=1&CFID=153853516)\] 
   \[[News from NJU](http://news.nju.edu.cn/show_article_12_53506)\] 
   \[[News from Alibaba](https://mp.weixin.qq.com/s/31ERUKkLigExNVLdPZhEeg)\] 
-1. \[[INFOCOM'18](http://infocom2018.ieee-infocom.org/)\] 
-  **Bingchuan Tian**, Chen Tian, Haipeng Dai, Bingquan Wang. 
-  "Scheduling Coflows of Multi-stage Jobs to Minimize the Total Weighted Job Completion Time." 
-  Proceedings of IEEE International Conference on Computer Communications (INFOCOM'18), Honolulu, HI, USA, April 15-19, 2018. 
-  \[[Paper](https://www.doi.org/10.1109/INFOCOM.2018.8486340)\]
 
 See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
