@@ -1,7 +1,7 @@
 PhD Student  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: _bingchuantian_#gmail.com(suggested)  _bctian_#smail.nju.edu.cn(optional)  
+Email: _bingchuantian_#gmail.com OR _bctian_#smail.nju.edu.cn 
 
 
 ## Biography
@@ -20,6 +20,10 @@ Email: _bingchuantian_#gmail.com(suggested)  _bctian_#smail.nju.edu.cn(optional)
 1. Network scheduling
 
 ## Selected Publications
+1. \[[NSDI'20](https://www.usenix.org/conference/nsdi20)\] 
+  Ennan Zhai, Ang Chen, Ruzica Piskac, Mahesh Balakrishnan, **Bingchuan Tian**, Bo Song, Haoliang Zhang.
+  "Check before You Change: Preventing Correlated Failures in Service Updates." 
+  Proceedings of USENIX Symposium on Networked Systems Design and Implementation (NSDI'20), Santa Clara, CA, USA, February 25-27, 2020.
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
   **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Haitao Zheng, Ben Y. Zhao. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
@@ -47,14 +51,14 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
 
 ## Selected Awards
-1. Person of the Year in Nanjing University, 2019. <br> <font color="red"> #10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
-1. Nomination Award of MSRA Fellowship, 2019. <br> <font color="red"> #top 25 Asia-Pacific PhD students in computer science </font>
+1. Person of the Year in Nanjing University, 2019. <br> <font color="red"> # 10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
+1. Nomination Award of MSRA Fellowship, 2019. <br> <font color="red"> # top 25 Asia-Pacific PhD students in computer science </font>
 1. National Scholarship for PhD students, 2019.
 1. Principal's Special Scholarship, 2016.
 1. National Scholarship for undergraduate students, 2013.
 
 ## Last Updated
-January 3, 2020.
+February 22, 2020.
 
 <br/>
 <center>
