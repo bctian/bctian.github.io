@@ -23,7 +23,8 @@ Email: _bingchuantian_#gmail.com OR _bctian_#smail.nju.edu.cn
 1. \[[NSDI'20](https://www.usenix.org/conference/nsdi20)\] 
   Ennan Zhai, Ang Chen, Ruzica Piskac, Mahesh Balakrishnan, **Bingchuan Tian**, Bo Song, Haoliang Zhang.
   "Check before You Change: Preventing Correlated Failures in Service Updates." 
-  Proceedings of USENIX Symposium on Networked Systems Design and Implementation (NSDI'20), Santa Clara, CA, USA, February 25-27, 2020.
+  Proceedings of USENIX Symposium on Networked Systems Design and Implementation (NSDI'20), Santa Clara, CA, USA, February 25-27, 2020. 
+  \[[Paper](https://www.usenix.org/conference/nsdi20/presentation/zhai)\] 
 1. \[[SIGCOMM'19](http://conferences.sigcomm.org/sigcomm/2019/)\] 
   **Bingchuan Tian**, Xinyi Zhang, Ennan Zhai, Hongqiang Harry Liu, Qiaobo Ye, Chunsheng Wang, Xin Wu, Zhiming Ji, Yihong Sang, Ming Zhang, Da Yu, Chen Tian, Haitao Zheng, Ben Y. Zhao. 
   "Safely and Automatically Updating In-Network ACL Configurations with Intent Language." 
@@ -58,7 +59,7 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 1. National Scholarship for undergraduate students, 2013.
 
 ## Last Updated
-February 22, 2020.
+February 27, 2020.
 
 <br/>
 <center>
