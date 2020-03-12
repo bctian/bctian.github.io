@@ -16,6 +16,7 @@ Email: _bingchuantian_#gmail.com OR _bctian_#smail.nju.edu.cn
 
 ## Research Interests
 1. Intent-based networking
+1. Network verification
 1. Datacenter transport and congestion control 
 1. Network scheduling
 
