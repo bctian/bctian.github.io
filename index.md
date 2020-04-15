@@ -1,13 +1,13 @@
 PhD Student  
 Department of Computer Science and Technology, Nanjing University  
 Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: _bingchuantian_#gmail.com OR _bctian_#smail.nju.edu.cn 
+Email: bingchuantian#gmail.com OR bctian#smail.nju.edu.cn 
 
 
 ## Biography
 1. **Research Intern** (June, 2018 - Now)  
   * [Alibaba Group](https://www.alibabagroup.com/en/global/home)  
-  * Advisor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
+  * Mentor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
 1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: [Chen Tian](https://cs.nju.edu.cn/tianchen/)
@@ -46,22 +46,15 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 2. Reviewer
   * IEEE Communications Letters
 
-## Teaching Experience
-1. Teaching Assistant (Remote), Computer Networks (Spring 2019, Nanjing University). Instructor: Chen Tian.
-1. Teaching Assistant (Remote), Computer Networks (Fall 2018, Nanjing University). Instructor: Jiaqi Zheng.
-1. Teaching Assistant, Computer Networks (Spring 2018, Nanjing University). Instructor: Chen Tian.
-1. Teaching Assistant, Computer Networks (Fall 2017, Nanjing University). Instructor: Chen Tian.
-1. Teaching Assistant, Data Communications (Spring 2017, Nanjing University). Instructor: Xiaoliang Wang.
-
 ## Selected Awards
-1. Person of the Year in Nanjing University, 2019. <br> <font color="red"> # 10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
-1. Nomination Award of MSRA Fellowship, 2019. <br> <font color="red"> # top 25 Asia-Pacific PhD students in computer science </font>
-1. National Scholarship for PhD students, 2019.
-1. Principal's Special Scholarship, 2016.
-1. National Scholarship for undergraduate students, 2013.
+1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="red"> ★ 10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
+1. _Nomination Award of MSRA Fellowship_, 2019. <br> <font color="red"> ★ top 25 Asia-Pacific PhD students in computer science </font>
+1. _National Scholarship_ for PhD students, 2019.
+1. _Principal's Special Scholarship_ in Nanjing University, 2016.
+1. _National Scholarship_ for undergraduate students, 2013.
 
 ## Last Updated
-March 12, 2020.
+April 15, 2020.
 
 <br/>
 <center>
