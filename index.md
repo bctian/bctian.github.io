@@ -56,9 +56,3 @@ See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Sch
 ## Last Updated
 April 15, 2020.
 
-<br/>
-<center>
-  <!-- a href='https://clustrmaps.com/site/1aq0p'  title='Visit tracker' -->
-    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=yHdqTPUuXOXJBrPTAVGiXTn3sj_4xXZwrMzOh8TFYe4'/>
-  <!-- /a -->
-</center> 
