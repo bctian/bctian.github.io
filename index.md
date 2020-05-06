@@ -37,7 +37,7 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
   \[[News from NJU](http://news.nju.edu.cn/show_article_12_53506)\] 
   \[[News from Alibaba](https://mp.weixin.qq.com/s/31ERUKkLigExNVLdPZhEeg)\] 
 
-See [_DBLP_](https://dblp.uni-trier.de/pers/hd/t/Tian:Bingchuan) or [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
+See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
 ## Services
 1. Shadow PC
