@@ -11,7 +11,7 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: [Chen Tian](https://cs.nju.edu.cn/tianchen/)
-1. **BE** in Computer Science and Technology (September, 2012 - June, 2016)  
+1. **BEng** in Computer Science and Technology (September, 2012 - June, 2016)  
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
