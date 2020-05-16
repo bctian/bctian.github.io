@@ -47,13 +47,6 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 
 See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
-## Services
-1. Shadow PC
-  * EuroSys [2020](https://eurosys20spc.hotcrp.com/users?t=pc)
-  * IMC [2019](https://conferences.sigcomm.org/imc/2019/shadow/)
-2. Reviewer
-  * IEEE Communications Letters
-
 ## Selected Awards
 1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="red"> ★ 10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
 1. _Nomination Award of MSRA Fellowship_, 2019. <br> <font color="red"> ★ top 25 Asia-Pacific PhD students in computer science </font>
