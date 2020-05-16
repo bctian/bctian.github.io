@@ -21,6 +21,10 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 1. Network scheduling
 
 ## Selected Publications
+1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
+  Fangdan Ye, Da Yu, Ennan Zhai, Hongqiang Harry Liu, **Bingchuan Tian**, Qiaobo Ye, Chunsheng Wang, Xin Wu, Tianchen Guo, Cheng Jin, Dunsheng She, Qing Ma, Biao Cheng, Hui Xu, Ming Zhang, Zhiliang Wang, Rodrigo Fonseca. 
+  "Accuracy, Scalability, Coverage – A Practical Configuration Verifier on a Global WAN." 
+  Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'20), New York City, USA, August 10-14, 2020.
 1. \[[NSDI'20](https://www.usenix.org/conference/nsdi20)\] 
   Ennan Zhai, Ang Chen, Ruzica Piskac, Mahesh Balakrishnan, **Bingchuan Tian**, Bo Song, Haoliang Zhang.
   "Check before You Change: Preventing Correlated Failures in Service Updates." 
