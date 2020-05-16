@@ -22,6 +22,10 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 
 ## Selected Publications
 1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
+  Jiaqi Gao, Ennan Zhai, Hongqiang Harry Liu, Rui Miao, Yu Zhou, **Bingchuan Tian**, Chen Sun, Dennis Cai, Ming Zhang, Minlan Yu. 
+  "TAIX: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs." 
+  Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'20), New York City, USA, August 10-14, 2020.
+1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
   Fangdan Ye, Da Yu, Ennan Zhai, Hongqiang Harry Liu, **Bingchuan Tian**, Qiaobo Ye, Chunsheng Wang, Xin Wu, Tianchen Guo, Cheng Jin, Dunsheng She, Qing Ma, Biao Cheng, Hui Xu, Ming Zhang, Zhiliang Wang, Rodrigo Fonseca. 
   "Accuracy, Scalability, Coverage – A Practical Configuration Verifier on a Global WAN." 
   Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM'20), New York City, USA, August 10-14, 2020.
@@ -58,5 +62,5 @@ See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl
 1. _National Scholarship_ for undergraduate students, 2013.
 
 ## Last Updated
-April 15, 2020.
+May 15, 2020.
 
