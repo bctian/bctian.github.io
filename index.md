@@ -48,7 +48,7 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
 ## Selected Awards
-1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="red"> ★ 10 distinguished students in Nanjing University, including bachelors, masters, and PhDs </font>
+1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="red"> ★ 10 distinguished students in Nanjing University, including undergraduates, graduates, and PhD students </font>
 1. _Nomination Award of MSRA Fellowship_, 2019. <br> <font color="red"> ★ top 25 Asia-Pacific PhD students in computer science </font>
 1. _National Scholarship_ for PhD students, 2019.
 1. _Principal's Special Scholarship_ in Nanjing University, 2016.
