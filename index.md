@@ -15,10 +15,8 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
   * [Department of Computer Science and Technology](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), China
 
 ## Research Interests
-1. Intent-based networking
 1. Network verification
-1. Datacenter transport and congestion control 
-1. Network scheduling
+1. Intent-based networking
 
 ## Selected Publications
 1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
