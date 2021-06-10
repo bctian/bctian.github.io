@@ -24,7 +24,6 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
   **Bingchuan Tian**, Jiaqi Gao, Mengqi Liu, Ennan Zhai, Yanqing Chen, Yu Zhou, Li Dai, Feng Yan, Mengjing Ma, Ming Tang, Jie Lu, Xionglie Wei, Hongqiang Harry Liu, Ming Zhang, Minlan Yu, Chen Tian.
   "Aquila: A Practical Usable Verification System for Production-Scale Programmable Data Planes."
   SIGCOMM'21 (to appear).
-ACM SIGCOMM (SIGCOMM'21), Aug 2021.
 1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
   Jiaqi Gao, Ennan Zhai, Hongqiang Harry Liu, Rui Miao, Yu Zhou, **Bingchuan Tian**, Chen Sun, Dennis Cai, Ming Zhang, Minlan Yu. 
   "Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs." 
