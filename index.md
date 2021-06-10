@@ -23,7 +23,7 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 1. \[[SIGCOMM'21](http://conferences.sigcomm.org/sigcomm/2021/)\] 
   **Bingchuan Tian**, Jiaqi Gao, Mengqi Liu, Ennan Zhai, Yanqing Chen, Yu Zhou, Li Dai, Feng Yan, Mengjing Ma, Ming Tang, Jie Lu, Xionglie Wei, Hongqiang Harry Liu, Ming Zhang, Minlan Yu, Chen Tian.
   "Aquila: A Practical Usable Verification System for Production-Scale Programmable Data Planes."
-  (to appear).
+  (to appear)
 1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
   Jiaqi Gao, Ennan Zhai, Hongqiang Harry Liu, Rui Miao, Yu Zhou, **Bingchuan Tian**, Chen Sun, Dennis Cai, Ming Zhang, Minlan Yu. 
   "Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs." 
@@ -44,8 +44,8 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl=en) for full publications.
 
 ## Selected Awards
-1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="red"> ★ 10 distinguished students in Nanjing University, including undergraduates, graduates, and PhD students </font>
-1. _Nomination Award of MSRA Fellowship_, 2019. <br> <font color="red"> ★ top 25 Asia-Pacific PhD students in computer science </font>
+1. _Person of the Year_ in Nanjing University, 2019. <br> <font color="yellow"> ★ 10 distinguished students in Nanjing University, including undergraduates, graduates, and PhD students </font>
+1. _Nomination Award of MSRA Fellowship_, 2019. <br> <font color="yellow"> ★ top 25 Asia-Pacific PhD students in computer science </font>
 1. _National Scholarship_ for PhD students, 2019.
 1. _Principal's Special Scholarship_ in Nanjing University, 2016.
 1. _National Scholarship_ for undergraduate students, 2013.
