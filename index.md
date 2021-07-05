@@ -1,11 +1,12 @@
-PhD Student  
-Department of Computer Science and Technology, Nanjing University  
-Address: Room 427, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023  
-Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn 
+PhD in Computer Science
+Senior Engineer (Network Researcher) @ Alibaba Group  
+Email: bingchuantian(a)gmail.com
 
 
 ## Biography
-1. **Research Intern** (June, 2018 - Now)  
+1. **Senior Engineer** (July, 2021 - Now)
+  * [Alibaba Group](https://www.alibabagroup.com/en/global/home)  
+1. **Research Intern** (June, 2018 - June, 2021)  
   * [Alibaba Group](https://www.alibabagroup.com/en/global/home)  
   * Mentor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
 1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
@@ -21,7 +22,7 @@ Email: bingchuantian#gmail.com__OR__bctian#smail.nju.edu.cn
 
 ## Selected Publications
 1. \[[SIGCOMM'21](http://conferences.sigcomm.org/sigcomm/2021/)\] 
-  **Bingchuan Tian**, Jiaqi Gao, Mengqi Liu, Ennan Zhai, Yanqing Chen, Yu Zhou, Li Dai, Feng Yan, Mengjing Ma, Ming Tang, Jie Lu, Xionglie Wei, Hongqiang Harry Liu, Ming Zhang, Minlan Yu, Chen Tian.
+  **Bingchuan Tian**, Jiaqi Gao, Mengqi Liu, Ennan Zhai, Yanqing Chen, Yu Zhou, Li Dai, Feng Yan, Mengjing Ma, Ming Tang, Jie Lu, Xionglie Wei, Hongqiang Harry Liu, Ming Zhang, Chen Tian, Minlan Yu.
   "Aquila: A Practical Usable Verification System for Production-Scale Programmable Data Planes."
   (to appear)
 1. \[[SIGCOMM'20](http://conferences.sigcomm.org/sigcomm/2020/)\] 
@@ -51,5 +52,5 @@ See [_Google Scholar_](https://scholar.google.com/citations?user=yAaafq4AAAAJ&hl
 1. _National Scholarship_ for undergraduate students, 2013.
 
 ## Last Updated
-June 10, 2021.
+July 5, 2021.
 
