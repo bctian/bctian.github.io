@@ -9,7 +9,7 @@ Email: bingchuantian(a)gmail.com
 1. **Research Intern** (June, 2018 - June, 2021)  
   * [Alibaba Group](https://www.alibabagroup.com/en/global/home)  
   * Mentor: [Ennan Zhai](https://ennanzhai.github.io/) & [Hongqiang Harry Liu](http://www.hongqiangliu.com/)
-1. **PhD Student** in Computer Science and Technology (September, 2016 - Now)  
+1. **PhD Student** in Computer Science and Technology (September, 2016 - June, 2021)  
   * [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), China  
   * Advisor: [Chen Tian](https://cs.nju.edu.cn/tianchen/)
 1. **BEng** in Computer Science and Technology (September, 2012 - June, 2016)  
