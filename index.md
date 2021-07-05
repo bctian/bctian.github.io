@@ -1,4 +1,4 @@
-PhD in Computer Science
+PhD in Computer Science  
 Senior Engineer (Network Researcher) @ Alibaba Group  
 Email: bingchuantian(a)gmail.com
 
